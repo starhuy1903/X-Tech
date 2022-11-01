@@ -112,8 +112,7 @@ body {
 }
 
 .try-container .btn-try a.normal {
-  background: url("http://www.shegy.nazwa.pl/themeforest/xtech_landing/dark_wood/images/xbutton-try.png.pagespeed.ic.jRKAp-zMKj.webp")
-    no-repeat top left;
+  background: url("./assets/imgs/xbutton-try.png") no-repeat top left;
   width: 343px;
   height: 57px;
   display: block;
@@ -122,8 +121,7 @@ body {
 }
 
 .try-container .btn-try a.hover {
-  background: url("http://www.shegy.nazwa.pl/themeforest/xtech_landing/dark_wood/images/xbutton-try.png.pagespeed.ic.jRKAp-zMKj.webp")
-    no-repeat 0 -57px;
+  background: url("./assets/imgs/xbutton-try.png") no-repeat 0 -57px;
   width: 343px;
   height: 57px;
   position: absolute;
@@ -162,7 +160,6 @@ body {
   max-width: calc(100% / 3);
   position: relative;
   padding: 0 40px 0 80px;
-  /* margin: 0 40px 0 0; */
   height: 180px;
   display: flex;
   margin-bottom: 30px;
@@ -260,8 +257,7 @@ body {
 }
 
 #bottom {
-  background: url("http://www.shegy.nazwa.pl/themeforest/xtech_landing/dark_wood/images/xbg-bottom.jpg.pagespeed.ic.U-y1X3bUP3.webp")
-    no-repeat top left;
+  background: url("./assets/imgs/xbg-bottom.jpg") no-repeat top left;
   background-size: cover;
   width: 100%;
   margin: 0 auto;
@@ -294,8 +290,7 @@ body {
 }
 
 #bottom .box.contact .showmap {
-  background: url("http://www.shegy.nazwa.pl/themeforest/xtech_landing/dark_wood/images/xcontact.jpg.pagespeed.ic.PfLTBi8sPv.webp")
-    no-repeat top left;
+  background: url("./assets/imgs/xcontact.jpg") no-repeat top left;
   width: 201px;
   height: 70px;
   position: absolute;
@@ -335,8 +330,7 @@ body {
 }
 
 #footer {
-  background: url("data:image/webp;base64,UklGRtgDAABXRUJQVlA4IMwDAAAQHQCdASrqAyMAPm02lkmkIqUiICi4oA2JaWys3rrcQSZCYqaiThGjetL8osGCeOOCVDykEb7Wf0N4QrF0u5Mgu7Y89YCmYWrHdqT4rJFebjKpUS1TTnedHQMCY2Y5ozXFR+S0g+JePbjdre1cZaj8omkFbP6zMzuK78uo5unsIxLVk0Zc5dBFzzXRyV3bUfAfzXzj5IOFJIZCkar8S9cqxKEr1rO5kWGC99qOum6UM4+RNfOXQP4g15ZIUj8VL5Bw4RWlrmP1NLzzoJ+WSFaGHKua9TIOqZIKvCVQmVRzD9b6q2SFT03Ay9ZVrKa1KqQAAP7wVz6/fUmVL8+vosl4u9TUw5oNjTkbAqcar3pRjGDfm9O6t0EokRFd//BINNLm9p3bBGeGP/Ahe4wm+/SmhFqqLyq/Ja8XmMV2m2VlmFg40XwwH9l2qZU6koS0Q5lutf5rdFMeW0LFgZWBRLblu+xkfKNLMFg0odhcedlujYxQ6SPavhz0SLv6KfTo/PxqDgoop46kBrlz8/L+FVm9rAxTbKcwA+dTOMdoK8cz4TgcAoTDj84vUG1WtUVqjFJZ9cN4ElPFFq4pecfETHGbJ1ctYJQ7ABHtn4ZV3EdqezMi9E9JW24s6SOFjUuzFq6j69YGdkCNxJt9gVZfvd7K7zgD3rep2uc5d5ryPS+1WBYKZx6vyfFrWDqnBgcaTnXaX0qQEVprNGhLApj23tFmvHm3E6UezfWv/yjhSJsK6ciAedS1Vx55dxJND91kuKTwnoLE88SeNOq5uig/ZZP81IrLOZ+wAlPyKycgULNA+KcX19QkKegLY0EY7tuzdxLLh2Vl23TohJZXaL2AYn9aVUYEj9k/i6A5hg+gDLiCMNTO2CXEaOQdSrfMPuTuRgqDqVUy4lPiTBJmDWhp1CiMA32nib7i60r5MHPcb48Zg3yL65ePiTWf2LqjaSDLrhtp4M5b5CtQJfNITy0IPV4R40GROx0Rr7UYZUYKYEZy34OncWCh6pBA0e2VQCgKhIV2E4ME17JfLvUJYH4gSotUweUwOO7iEweMlfXtZdrGvVS37IOX2hbOnRVF1bjuCilmL3x1iQ8b6KXS/lTKh7T7uk580MXMJEU1hLjptyrMkQpg86UcdUcp6xxxBolRWvUHYff2FdqAcIO+iVNUECaguewIrXD5VzLJT00ZulOvgEeFazTKjSQwsnleGVLWPek7LXiOd1hoo0yf1ou6ZYZ4qwyErdi+7XrJKBl+1Y3OD5hx6qTVooA1WAZYhawaL7RRdCLwghfh1j0AAAA=")
-    no-repeat top left;
+  background: url("./assets/imgs/xbg-footer.jpg") no-repeat top left;
   background-size: cover;
   width: 100%;
   height: 35px;
